@@ -10,10 +10,10 @@
         <div class="container justify-content-end">
             <ul class="nav nav-pills">
                 <li class="nav-item">
-                    <a class="nav-link" href="/sirh/mvc/employes/lister">Employés</a>
+                    <a class="nav-link" href="/mvc/employes/lister">Employés</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/sirh/mvc/bulletins/lister">Bulletin</a>
+                    <a class="nav-link" href="/mvc/bulletins/lister">Bulletin</a>
                 </li>
             </ul>
         </div>
